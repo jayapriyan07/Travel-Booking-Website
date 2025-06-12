@@ -1,1 +1,37 @@
+# 🌍 Travel Booking Website
 
+A simple web application that allows users to book travel by selecting a destination, date, and number of passengers. Built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- Destination selection from a dropdown
+- Date picker for choosing travel date
+- Input for number of passengers
+- Booking confirmation message on submit
+- Clean and responsive design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📁 Project Structure
+
+travel-booking-website/
+│
+├── index.html # Main HTML structure
+├── styles.css # Styling and layout
+└── script.js # Booking logic and confirmation
+
+✅ Future Enhancements
+
+Add user login and registration
+
+Connect with backend for real bookings
+
+Payment gateway integration
+
+Booking history and email confirmation
+
+📄 License
